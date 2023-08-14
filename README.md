@@ -1,6 +1,6 @@
 # Brain Tumor Detection using Masking (YoloV8)
 
-![Brain Tumor Detection](project_image.png)
+https://github.com/aadarsh0404/tumor-detection-masking/assets/60430440/ec04b881-4be0-4121-b494-477cf0427f29
 
 ## Project Overview
 
